@@ -1,48 +1,49 @@
-# Olá, eu sou o Gustavo Barros! 👋
+# Gustavo Henrique Barros da Silva
 
-Aspirante a Analista de Dados com foco em transformar dados em insights acionáveis e soluções de negócio.
-
-## 📄 Sobre Mim
-
-Atualmente cursando Sistemas para Internet. Minha jornada acadêmica e projetos pessoais têm sido focados em aprender e aplicar técnicas de análise, manipulação e visualização de dados para resolver problemas práticos.
-
-Meu objetivo é iniciar minha carreira como **Analista de Dados**, aplicando meu conhecimento para gerar valor e, futuramente, evoluir para a área de **Ciência de Dados**. Tenho experiência com ferramentas de BI como Looker Studio e Tableau, e em análise e modelagem com Python.
-
-## 🔗 Conecte-se Comigo
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gustavohbarros/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gustavo.hbarros.sp@gmail.com)
-
-## 🛠️ Minhas Habilidades & Ferramentas
-
-#### Linguagens e Banco de Dados
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-
-#### Bibliotecas Python
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Prophet](https://img.shields.io/badge/Prophet-007afe?style=for-the-badge&logo=facebook&logoColor=white)
-
-#### Ferramentas de BI e Visualização
-![Looker Studio](https://img.shields.io/badge/Looker%20Studio-4285F4?style=for-the-badge&logo=google-data-studio&logoColor=white)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
-![Power Query](https://img.shields.io/badge/Power%20Query-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-
-#### Outros
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Google Sheets](https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=google-sheets&logoColor=white)
-
-## 🚀 Projetos em Destaque
-
-Aqui estão alguns projetos que desenvolvi para aplicar e aprofundar meus conhecimentos.
-
-| Projeto | Descrição | Tecnologias Utilizadas | Demo |
-|---|---|---|---|
-| **Análise Preditiva de Consumo de Energia** | Solução de BI e Forecast para otimizar o consumo de energia em uma rede de supermercados, incluindo um simulador de economia. | `Python`, `Prophet`, `Pandas`, `Looker Studio` | [Dashboard Interativo](https://lookerstudio.google.com/reporting/70a0371c-7d8f-4512-bce6-a38106fa19fe) |
+Analista de Dados em formação, desenvolvendo soluções de Business Intelligence e Análise Preditiva com Python, SQL e as principais plataformas de visualização do mercado.
 
 ---
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=guzzkj&show_icons=true&theme=dracula)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=guzzkj&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+### 📬 Contato & Redes
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gustavohbarros/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gustavo.hbarros.sp@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/guzzkj)
+
+---
+
+### 🛠️ Habilidades & Ferramentas
+
+#### Linguagens & Consultas
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![DAX](https://img.shields.io/badge/DAX-F2C811?style=for-the-badge&logo=power-bi&logoColor=black)
+
+#### Bibliotecas Principais
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Prophet](https://img.shields.io/badge/Prophet-007afe?style=for-the-badge&logo=facebook&logoColor=white)
+![YFinance](https://img.shields.io/badge/YFinance-0087B3?style=for-the-badge)
+![BeautifulSoup](https://img.shields.io/badge/BeautifulSoup-8B9DAF?style=for-the-badge)
+![Google API](https://img.shields.io/badge/Google%20API-4285F4?style=for-the-badge&logo=google&logoColor=white)
+
+
+#### Ferramentas de BI e Planilhas
+![Looker Studio](https://img.shields.io/badge/Looker%20Studio-4285F4?style=for-the-badge&logo=google-data-studio&logoColor=white)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black)
+![Power Query](https://img.shields.io/badge/Power%20Query-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![Google Sheets](https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=google-sheets&logoColor=white)
+
+---
+
+### 🚀 Projetos em Destaque
+
+Abaixo estão os principais projetos do meu portfólio, cada um focado em resolver um problema de negócio diferente e demonstrar um conjunto específico de habilidades.
+
+| Projeto | Descrição Resumida | Principais Tecnologias | Dashboard |
+|---|---|---|---|
+| **[Análise de Consumo de Energia](./[NOME_DO_REPOSITORIO_DO_PROJETO])** | Solução de BI e Forecast para otimizar o consumo de energia em uma rede de supermercados. | `Python`, `Prophet`, `Looker Studio` | [![Dashboard](https://img.shields.io/badge/Ver%20Dashboard-4285F4?style=for-the-badge&logo=google-data-studio&logoColor=white)](https://lookerstudio.google.com/reporting/70a0371c-7d8f-4512-bce6-a38106fa19fe) |
+| **[Análise de Ativos Financeiros](./[NOME_DO_REPOSITORIO_DO_PROJETO])** | Coleta e análise de dados históricos de ações para comparar performance e volatilidade. | `Python (yfinance)`, `Power BI`, `DAX`| [![Dashboard](https://img.shields.io/badge/Ver%20Dashboard-F2C811?style=for-the-badge&logo=power-bi&logoColor=black)]([LINK_PARA_SEU_DASHBOARD_POWERBI]) |
+| **[Dashboard de Vendas "Superstore"](./[NOME_DO_REPOSITORIO_DO_PROJETO])** | Análise de um dataset de varejo para criação de KPIs e dashboards de vendas e lucratividade. | `Tableau`, `CSV` | [![Dashboard](https://img.shields.io/badge/Ver%20Dashboard-E97627?style=for-the-badge&logo=tableau&logoColor=white)]([LINK_PARA_SEU_DASHBOARD_TABLEAU]) |
+| **[Análise de Mercado Imobiliário](./[NOME_DO_REPOSITORIO_DO_PROJETO])** | Coleta via Web Scraping para analisar preços e características de imóveis por região. | `Python (BeautifulSoup)`, `Tableau` | [![Dashboard](https://img.shields.io/badge/Ver%20Dashboard-E97627?style=for-the-badge&logo=tableau&logoColor=white)]([LINK_PARA_SEU_DASHBOARD_TABLEAU]) |
+| **[Análise de Churn de Clientes](./[NOME_DO_REPOSITORIO_DO_PROJETO])** | Utilização de SQL avançado para identificar padrões e o risco de cancelamento de clientes. | `SQL`, `Power BI`, `Python` | [![Dashboard](https://img.shields.io/badge/Ver%20Dashboard-F2C811?style=for-the-badge&logo=power-bi&logoColor=black)]([LINK_PARA_SEU_DASHBOARD_POWERBI]) |
