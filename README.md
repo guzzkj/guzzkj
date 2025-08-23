@@ -1,4 +1,4 @@
-# Olá, eu sou o Gustavo Barros! 👋
+# Olá, eu sou o Gustavo Barros! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
 
 Analista de Dados em formação, desenvolvendo soluções de Business Intelligence e Análise Preditiva com Python, SQL e as principais plataformas de visualização do mercado.
 
