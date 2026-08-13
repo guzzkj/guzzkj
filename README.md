@@ -1,7 +1,7 @@
 # Olá, eu sou o Gustavo Barros! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
 
 Analista de Dados em formação, desenvolvendo soluções de Business Intelligence e Análise Preditiva com Python, SQL e as principais plataformas de visualização do mercado.
-https://roadmap.sh/card/tall/67bfd56d580201fc77268928?variant=dark&roadmaps=data-analyst
+[![roadmap.sh](https://roadmap.sh/card/tall/67bfd56d580201fc77268928?variant=dark&roadmaps=data-analyst)](https://roadmap.sh)
 ---
 
 ### 📬 Contato & Redes
