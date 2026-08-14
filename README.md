@@ -3,8 +3,6 @@
 Analista de Dados em formação, desenvolvendo soluções de Business Intelligence e Análise Preditiva com Python, SQL e as principais plataformas de visualização do mercado.
 
 ---
-[![roadmap.sh](https://roadmap.sh/card/tall/67bfd56d580201fc77268928?variant=dark&roadmaps=data-analyst)](https://roadmap.sh)
-
 
 ### 📬 Contato & Redes
 
