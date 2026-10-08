@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="880" height="420" viewBox="0 0 880 420" role="img" aria-labelledby="t" xml:space="preserve">
+<title id="t">Gustavo Barros · analista de dados em formação · desenvolvendo soluções de Business Intelligence e Análise Preditiva com Python, SQL e as principais plataformas de visualização do mercado.</title>
+<style>text{font-family:ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace}.bk{animation:bk 1.1s steps(1,end) infinite}@keyframes bk{0%{opacity:1}50%,100%{opacity:0}}.ln{animation:ln .5s ease both}@keyframes ln{from{opacity:0;transform:translateX(-6px)}to{opacity:1;transform:none}}.dq{animation:dq 1.8s ease-in-out infinite;opacity:.15}@keyframes dq{0%,100%{opacity:.15}50%{opacity:.95}}.dr{stroke-dasharray:1400;animation:dr 3.2s ease-out .4s both}@keyframes dr{from{stroke-dashoffset:1400}to{stroke-dashoffset:0}}</style>
+<defs><pattern id="sl" width="3" height="3" patternUnits="userSpaceOnUse"><rect width="3" height="1" fill="#fff" fill-opacity=".02"/></pattern></defs><rect x=".5" y=".5" width="879" height="419" rx="8" fill="#0a0a0a" stroke="#2a2a2a"/><text x="24" y="29" font-size="14" fill="#a6a6a6">~/gustavo</text><path d="M1 46H879" stroke="#1c1c1c"/><text x="856" y="29" font-size="14" fill="#a6a6a6" text-anchor="end">dados · bi · análise preditiva</text>
+<g class="ln" style="animation-delay:0.15s"><text x="40" y="96" font-size="14" fill="#7a7a7a">$ whoami</text></g>
+<g class="ln" style="animation-delay:0.33s"><text x="40" y="120" font-size="30" fill="#f5f5f5">gustavo barros</text></g>
+<g class="ln" style="animation-delay:0.51s"><text x="40" y="154" font-size="16" fill="#c8c8c8">analista de dados em formação</text></g>
+<g class="ln" style="animation-delay:0.87s"><text x="40" y="202" font-size="14" fill="#a6a6a6">desenvolvendo soluções de Business Intelligence</text></g>
+<g class="ln" style="animation-delay:1.05s"><text x="40" y="226" font-size="14" fill="#a6a6a6">e Análise Preditiva com Python, SQL e as principais</text></g>
+<g class="ln" style="animation-delay:1.23s"><text x="40" y="250" font-size="14" fill="#a6a6a6">plataformas de visualização do mercado.</text></g>
+<path d="M40 380H840" stroke="#2a2a2a"/>
+<path d="M40 300H840" stroke="#1c1c1c" stroke-dasharray="2 6"/>
+<path d="M40 320H840" stroke="#1c1c1c" stroke-dasharray="2 6"/>
+<path d="M40 340H840" stroke="#1c1c1c" stroke-dasharray="2 6"/>
+<path d="M40 360H840" stroke="#1c1c1c" stroke-dasharray="2 6"/>
+<path d="M40 380H840" stroke="#1c1c1c" stroke-dasharray="2 6"/>
+<polyline class="dr" points="40.0,352.0 84.4,348.0 128.9,355.0 173.3,342.0 217.8,346.0 262.2,338.0 306.7,344.0 351.1,330.0 395.6,336.0 440.0,328.0 484.4,334.0 528.9,322.0 573.3,330.0 617.8,326.0" fill="none" stroke="#f5f5f5" stroke-width="1.6"/>
+<polyline class="dq" points="617.8,326.0 662.2,320.0 706.7,324.0 751.1,316.0 795.6,320.0 840.0,312.0" fill="none" stroke="#f5f5f5" stroke-width="1.6" stroke-dasharray="4 5"/>
+<circle cx="40.0" cy="352.0" r="2" fill="#c8c8c8"/>
+<circle cx="84.4" cy="348.0" r="2" fill="#c8c8c8"/>
+<circle cx="128.9" cy="355.0" r="2" fill="#c8c8c8"/>
+<circle cx="173.3" cy="342.0" r="2" fill="#c8c8c8"/>
+<circle cx="217.8" cy="346.0" r="2" fill="#c8c8c8"/>
+<circle cx="262.2" cy="338.0" r="2" fill="#c8c8c8"/>
+<circle cx="306.7" cy="344.0" r="2" fill="#c8c8c8"/>
+<circle cx="351.1" cy="330.0" r="2" fill="#c8c8c8"/>
+<circle cx="395.6" cy="336.0" r="2" fill="#c8c8c8"/>
+<circle cx="440.0" cy="328.0" r="2" fill="#c8c8c8"/>
+<circle cx="484.4" cy="334.0" r="2" fill="#c8c8c8"/>
+<circle cx="528.9" cy="322.0" r="2" fill="#c8c8c8"/>
+<circle cx="573.3" cy="330.0" r="2" fill="#c8c8c8"/>
+<circle cx="617.8" cy="326.0" r="2" fill="#c8c8c8"/>
+<text x="40" y="286" font-size="12" fill="#7a7a7a">histórico ──  previsão ╌╌</text>
+<text x="840" y="286" font-size="12" fill="#7a7a7a" text-anchor="end">forecast.py</text>
+<text x="40" y="402" font-size="13" fill="#a6a6a6">$ python forecast.py --model prophet</text>
+<rect class="bk" x="332.59999999999997" y="390" width="8" height="15" fill="#f5f5f5"/>
+<circle class="bk" cx="590.0" cy="24" r="3.5" fill="#f5f5f5"/>
+<rect x="1" y="1" width="878" height="418" rx="8" fill="url(#sl)"/>
+</svg>
